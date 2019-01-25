@@ -11,3 +11,6 @@
 
 ## Student Work
 + Python Review
+
+## Assignment
++ Mini-project#1 Part1 Available!
