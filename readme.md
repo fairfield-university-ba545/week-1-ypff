@@ -13,4 +13,4 @@
 + Python Review - __Need to submit before next class!__
 
 ## Assignment
-+ Mini-project#1 Part1 Available! -__Due on 2/11__
++ Mini-project#1 Part1 Available! - __Due on 2/11__
