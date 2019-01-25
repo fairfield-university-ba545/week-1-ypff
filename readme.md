@@ -10,7 +10,7 @@
 + [A Data Mining Tour](https://github.com/DrJieTao/IS540-Project-2/blob/master/Decision%20Tree%2C%20Random%20Forest%20%26%20SVM.ipynb)
 
 ## Student Work
-+ Python Review
++ Python Review - __Need to submit before next class!__
 
 ## Assignment
-+ Mini-project#1 Part1 Available!
++ Mini-project#1 Part1 Available! -__Due on 2/11__
